@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 Computer Science student at the University of Nottingham
+📚 Currently learning C and ARM Assembly
+🧬 19
+🧍 he/him
