@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 Computer Science student at the University of Nottingham<br>
-📚 Currently learning C and ARM Assembly<br>
-🧬 19<br>
+🧬 21<br>
 🧍 he/him<br>
